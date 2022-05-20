@@ -222,7 +222,13 @@ img {
 
     .why-us{
         background-color: #252525;
+        padding-top:50px;
+        padding-bottom:50px;
+        margin: 0 auto;
 
     }
 
+    .steps{
+        margin:0 auto;
+    }
 }
