@@ -131,7 +131,7 @@ img {
  @media screen and (min-device-width: 481px) and (max-device-width: 768px) { 
   
     .container {
-        width: 768px;
+        width: 100%;
         
     }
 
@@ -162,7 +162,7 @@ img {
     }
     
     .container {
-        width: 480px;
+        width: 100%;
         
     }
 
